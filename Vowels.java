@@ -1,6 +1,7 @@
 // Thomas Huber 8/29/17
 
 import java.util.Scanner;
+thomas kys, get better feggit
 
 public class Vowels {
 
